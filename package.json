@@ -1,0 +1,17 @@
+{
+  "name": "NightwatchPractice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^93.0.1",
+    "geckodriver": "^2.0.4",
+    "nightwatch": "^1.7.9"
+  }
+}
